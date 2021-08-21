@@ -1,0 +1,62 @@
+body{
+  background-color:LEMONCHIFFON;
+}
+   #page{
+     width: 960px;
+     margin: 0 auto;
+     min-width: 960px;
+     background-color:PAPAYAWHIP;
+     border: 2px solid;
+   }
+  #main{
+    width: 52%;
+    float:left;
+    margin-right: 5%;
+  }
+  .message{
+    resize:none;
+  }
+  #content{
+      background-color: aqua;
+      padding:10px;
+      border-width:2px 0px;
+      border-style: dashed;
+  }
+  #sidebar{
+    width: 20%;
+    float: right;
+  }
+  #footer{
+    clear: both;
+  }
+  #leftsidebar{
+    width: 20%;
+    float: left;
+    margin-right: 3%;
+  }
+  .clear{
+    clear: both;
+  }
+/* gallery.html*/
+  #sub{
+    width: 66%;
+    float:left;
+  }
+  #sidebar-x{
+    width: 15%;
+    float: right;
+  }
+  #leftsidebar-x{
+    width: 15%;
+    float: left;
+    margin-right: 2%;
+  }
+/* service .html */
+  .service{
+    border: 1px solid crimson;
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+    text-align:left;
+    padding: 1px;
+  }
