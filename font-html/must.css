@@ -1,0 +1,28 @@
+legend{
+  font-weight: bold;
+  font-size: 30px;
+  font-family: monospace;
+}
+ol{
+  font-style: italic;
+  font-family: cursive;
+
+}
+body{
+  background-color: #66F2A5;
+  padding-top: 65px;
+  text-transform: capitalize;
+  font-family: serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1{
+  padding: 10px;
+  background-color: #FFC33A;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+}
