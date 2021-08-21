@@ -1,1 +1,3 @@
 # html-basics
+These are collection of sample web-pages completely built using HTML and CSS. In this project I have used all my HTML skills to create webpages which are very basic sample webpages with no particular use but they helped me in understanding the workflow of HTML and increased my knowledge to a large extent. If you want to check the output of the code, download the parent folder of the file which you like and run it in your device. You can also see the preview of my work in the comment section of their parent folder. If you like my work or have found any issues in it please do comment about it in the comment section of this repository. It means a lot to me and helps me in learning new things and improve my skills.
+Thank you.
